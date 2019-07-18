@@ -43,7 +43,7 @@ Add additional notes about how to deploy this on a live system
 
 * **Sudhamsh Bachu** - *Initial work* - (https://github.com/Sudhamsh)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
